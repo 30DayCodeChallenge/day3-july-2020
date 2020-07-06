@@ -1,4 +1,4 @@
-# Challenge 2 Day 2
+# Challenge 3 Day 3
 
 Instructions:
 
